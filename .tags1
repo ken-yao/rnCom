@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+constructor	D:\ReactNative\rnCom\components\ModalDemo.js	/^  constructor(props){$/;"	function	line:12
+state.animated	D:\ReactNative\rnCom\components\ModalDemo.js	/^      animated: true,$/;"	property	line:15
+state.modalVisible	D:\ReactNative\rnCom\components\ModalDemo.js	/^      modalVisible: false,$/;"	property	line:16
+state.transparent	D:\ReactNative\rnCom\components\ModalDemo.js	/^      transparent: false,$/;"	property	line:17
+state.showText	D:\ReactNative\rnCom\components\ModalDemo.js	/^      showText:'',$/;"	property	line:18
+state.modalStatus	D:\ReactNative\rnCom\components\ModalDemo.js	/^      modalStatus:'Modal目前处于关闭状态'$/;"	property	line:19
+_setModalVisible	D:\ReactNative\rnCom\components\ModalDemo.js	/^  _setModalVisible(visible) {$/;"	function	line:23
+_showModal	D:\ReactNative\rnCom\components\ModalDemo.js	/^ _showModal(){$/;"	function	line:29
+render	D:\ReactNative\rnCom\components\ModalDemo.js	/^  render() {$/;"	function	line:36
